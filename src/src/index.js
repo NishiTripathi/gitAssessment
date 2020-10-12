@@ -1,1 +1,1 @@
-BUG001
+console/log("BUG001");
